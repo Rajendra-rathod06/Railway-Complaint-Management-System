@@ -3,20 +3,24 @@ A full-stack Railway Complaint Management System that allows passengers to submi
 
 
 
- 🔥 Features
-👤 User Module
+Features
+
+User Module
+
 Submit complaints with details
-Upload complaint images 📷
+Upload complaint images 
 Enter PNR number for tracking
 
 
-🛠 Admin Module
+Admin Module
+
 View all complaints in dashboard
 See uploaded images for verification
 Update complaint status (Pending / In Progress / Resolved)
 
 
-📊 Data Management
+ Data Management
+ 
 MySQL database integration
 Stores complaint details securely
 Efficient handling using file paths for images
